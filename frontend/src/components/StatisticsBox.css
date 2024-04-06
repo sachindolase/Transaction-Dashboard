@@ -1,0 +1,23 @@
+.statistics {
+    background-color: rgb(61, 228, 228);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    border-radius: 10px;
+    margin: auto;
+    font-weight: bold;
+}
+
+.bkgrnd {
+    background-color: aquamarine;
+    height: 50vh;
+    margin-top: -12px;
+}
+
+h2 {
+    margin-left: 25px;
+}
+
+
